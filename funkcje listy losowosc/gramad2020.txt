@@ -1,0 +1,8 @@
+Gracz 1, liczba koœci: 3, bonus: 0, suma: 5
+Gracz 2, liczba koœci: 3, bonus: 0, suma: 5
+Gracz 1, liczba koœci: 2, bonus: 1, suma: 15
+Gracz 2, liczba koœci: 2, bonus: 1, suma: 15
+Gracz 1, liczba koœci: 3, bonus: 4, suma: 31
+Gracz 2, liczba koœci: 3, bonus: 0, suma: 31
+Gracz 1, liczba koœci: 3, bonus: 4, suma: 47
+Wygra³ gracz 1
